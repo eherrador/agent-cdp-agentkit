@@ -36,3 +36,19 @@ A continuación ejemplos de prompts que se pueden usar, pero claro puede haber m
 >* Persona: transfieres 0,001 ETH a 0x4c8bbcfc6DaE447228FcbB220C1DD4cae623EaaF
 >
 >* Persona: registras un Basename para que represente la identidad del wallet
+
+## Wallets, Frameworks y Redes de Blockchain
+### Wallets
+
+<a href="https://coinbase.com" target="_blank"><img src="./assets/wallets/coinbase.svg" width="100" height="auto" alt="Coinbase"></a>
+
+### Frameworks
+
+<a href="https://langchain.com" target="_blank"><img src="./assets/frameworks/langchain.svg" width="100" height="auto" alt="Langchain"></a>
+<a href="https://www.elizaos.ai" target="_blank"><img src="./assets/frameworks/eliza.svg" width="100" height="auto" alt="Eliza"></a>
+
+### Networks
+
+<a href="https://base.org" target="_blank"><img src="./assets/networks/base.svg" width="100" height="auto" alt="Base"></a>
+<a href="https://ethereum.org" target="_blank"><img src="./assets/networks/ethereum.svg" width="100" height="auto" alt="Ethereum"></a>
+<a href="https://solana.com" target="_blank"><img src="./assets/networks/solana.svg" width="100" height="auto" alt="Solana"></a>
