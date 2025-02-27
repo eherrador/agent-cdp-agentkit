@@ -27,3 +27,12 @@ CDP_API_KEY_PRIVATE_KEY es el valor asociado a *privateKey* (todo lo que está e
 AgentKit usa un wallet temporal, definido en un archivo de texto (wallet_data.txt) si este archivo no se existe entonces se crea uno nuevo.
 
 El contenido del archivo, en formato JSON, tiene los valores de `wallet_id` y `seed`
+
+## Probando el Agente
+A continuación ejemplos de prompts que se pueden usar, pero claro puede haber muchos otros más para interactuar con Base
+
+>* Persona: ¿Cuál es la dirección de tu billetera?
+>
+>* Persona: transfieres 0,001 ETH a 0x4c8bbcfc6DaE447228FcbB220C1DD4cae623EaaF
+>
+>* Persona: registras un Basename para que represente la identidad del wallet
